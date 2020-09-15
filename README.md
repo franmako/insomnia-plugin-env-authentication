@@ -12,7 +12,7 @@ Here's an example:
   "auth_settings": {
     "accessTokenUrl": "http://some-website.test/oauth/token",
     "grantType": "password",
-    "type": "oauth2"
+    "type": "oauth2",
     "clientId": 9,
     "clientSecret": "secret",
     "password": "secret",
